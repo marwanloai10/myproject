@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application22</string>
+    <string name="name">name</string>
+    <string name="array">array</string>
+    <string name="number">number</string>
+    <string name="stack">array</string>
+</resources>
